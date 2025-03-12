@@ -39,13 +39,12 @@ body {
     padding: 10px;
   }
   
-  /* Customizations: custom font for headings, color scheme, and layout spacing */
   h1, h2, h3 {
     font-family: 'Georgia', serif;
   }
   
   img {
-    max-width: 100%;
+    max-width: 300px;
     height: auto;
     border: 2px solid #333;
     margin: 10px 0;
